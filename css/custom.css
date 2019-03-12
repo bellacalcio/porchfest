@@ -1,0 +1,55 @@
+/*
+* Use this document to extend and add to teh Skeleton framewrok. 
+*/
+
+
+/* Table of contents
+––––––––––––––––––––––––––––––––––––––––––––––––––
+- Default style smartphone
+- Devices larger then 400px (single column)
+- Devices larger then 550px (grid becomes active)
+- More device sizes (tablet and up)
+- Typography notes
+*/
+
+
+/* Defaul styles for mobile smartphones
+––––––––––––––––––––––––––––––––––––––––––––––––––*/
+
+/* For devices larger than 400px (single column)
+––––––––––––––––––––––––––––––––––––––––––––––––––*/
+@media (min-width: 400px) {
+	/* add styles here*/ 
+}
+
+
+/* For devices larger than 550px (also point when grid becomes active)
+––––––––––––––––––––––––––––––––––––––––––––––––––*/
+@media (min-width: 550px) {
+	/* add styles here*/ 
+iframe {
+	width: 100%;
+    height: 450px;
+	}
+}
+
+
+
+/* More device sizes tablet and up
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+/* Larger than tablet */
+@media (min-width: 750px) {}
+
+/* Larger than desktop */
+@media (min-width: 1000px) {}
+
+/* Larger than Desktop HD */
+@media (min-width: 1200px) {}
+
+
+
+/* Typography notes
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+/* NOTE
+html is set to 62.5% so that all the REM measurements throughout Skeleton
+are based on 10px sizing. So basically 1.5rem = 15px :) */
