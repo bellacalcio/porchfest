@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html >
+<head>
+  <meta charset="UTF-8">
+  <title>PorchFest 2017</title>
+
+<link rel="stylesheet" href="../css/style.css">
+<link rel='stylesheet prefetch' href="../css/skeleton.css">
+<link rel="stylesheet" href="../css/sweetalert.css">
+<link rel="stylesheet" href="../css/responsive-nav.css">
+
+<script src="../js/index.js"></script>
+<script src="../js/jquery-3.1.1.min.js"></script>
+<script src="../js/sweetalert-master/dist/sweetalert-dev.js"></script>
+<script src="../js/responsive-nav/responsive-nav.js"></script>
+<script src="../js/sweetalert-master/dist/sweetalert.min.js"></script>
+
+</head>
+
+<body>
+
+<div class="nav wrapper-header">
+    <nav class="nav-collapse"> 
+      <ul class="row white">
+
+        <li class="two columns offset-by-one">
+          <a href="../index.html#history">
+            History
+          </a>
+        </li>
+        <li class="two columns">
+          <a href="../index.html#lineup ">
+            Lineup
+          </a>
+        </li>
+        <li class="two columns">
+          <a href="forms.html">
+            <strong>Get Involved</strong>
+          </a>
+        </li>
+        <li class="two columns">
+          <a href="../index.html#tickets ">
+            Tickets
+          </a>
+        </li>
+        <li class="two columns">
+          <a href="transportation.html">
+            <div class="here">Getting there</div>
+          </a>
+        </li>
+      </ul>
+    </nav>
+  </div> <!--end of wrapper-->
+
+<div class="wrapper-header">
+    <img src="../images/2.jpg"/>
+</div> <!--end row-->
+
+<div class="container" id="transportation">
+  <div class="row">
+    <div class="six columns offset-by-three">
+      <h3 class="padded-multiline">
+        <span>Getting There</span>
+      </h3>
+    </div> <!--end of columns-->
+    <div class="eight columns offset-by-two center">
+      <p>Once at the event, people usually walk, ride bikes or scooters, drive golf carts, or push strollers as they move from one porch to another along a determined route to partake in the festivities. However, we want to make sure you get to your desired location in a quick and easy manner.</p>
+    </div> <!--end of columns-->
+  </div> <!--end row-->
+
+  <div class="row center">
+    <div class="one-half column">
+      <h4>Rhode Island Ave</h4>
+        <ul class="accordion">
+          <li>
+            <a>Metro</a>
+            <p class="info">The easiest way to get to Rhode Island Ave is on the red line, just get off on the Rhode Island Ave-Brentwood stop</p>
+          </li>
+          <li>
+            <a>Car</a>
+            <p class="info">Parking on Rhode Island Ave Main Street will be limited. For those willing to brave street parking, the central address is 2300 Rhode Island Ave NE</p>
+          </li>
+          <li>
+            <a>Zipcar</a>
+            <p class="info">The Zipcar shuttle stops available at each porch - look for the signs! Hop on, hop off, free of charge!</p>
+          </li>
+        </ul> <!-- accordion -->
+      </div> <!--end of one-half-->
+    
+    <div class="one-half column">
+      <h4>Adams Morgan</h4>
+        <ul class="accordion">
+          <li>
+            <a>Bus</a>
+            <p>Adams Morgan is serviced by the 96 bus that goes from Capitol Hill area to Tenleytown-AU</p>
+          </li>
+          <li>
+            <a>Metro</a>
+            <p>Adams Morgan is a 15-minute walk from the Woodley Park-Adams Morgan metro stop on the red line</p>
+          </li>
+          <li>
+            <a>Car</a>
+            <p>On street parking is limited and there is no guaranteed parking for this event, but the central address for the event is Adams Mill Rd NW &amp; Columbia Rd</p>
+          </li>
+        </ul> <!-- accordion -->
+      </div> <!--end of column-->
+    </div> <!--end row-->
+</div> <!--end of container-->
+
+<script>
+
+var nav = responsiveNav(".nav-collapse", {
+});
+
+(function($) {
+    $('.accordion > li:eq(0) a').addClass('active').next().slideDown();
+
+    $('.accordion a').click(function(j) {
+        var dropDown = $(this).closest('li').find('p');
+
+        $(this).closest('.accordion').find('p').not(dropDown).slideUp();
+
+        if ($(this).hasClass('active')) {
+            $(this).removeClass('active');
+        } else {
+            $(this).closest('.accordion').find('a.active').removeClass('active');
+            $(this).addClass('active');
+        }
+
+        dropDown.stop(false, true).slideToggle();
+
+        j.preventDefault();
+    });
+})(jQuery);
+
+</script>
+
+
+
+<!--footer-->
+<div class="wrapper-footer">
+  <footer>
+    <ul class="six columns">
+      <li>
+        <h1>PorchFest</h1>
+      </li>
+    </ul>
+    <ul class="two columns">
+      <li>
+        <h4>Contact</h4>
+        <li>(202) 568-4567</li>
+        <li>
+          <a href="mailto:porchfestdc@gmail.com" target="blank">porchfestdc@gmail.com</a>
+        </li>
+        <li>700 12th Suite 700 NW</li>
+      </ul>
+      <ul class="two columns">
+        <li>
+          <h4>Get involved</h4>
+        </li>
+        <li>
+          <a href="forms.html" target="_blank">Perform</a>
+        </li>
+        <li>
+          <a href="forms.html" target="_blank">Sponsor a Porch</a>
+        </li>
+        <li>
+          <a href="forms.html" target="_blank">Volunteer</a>
+        </li>
+      </ul>
+    </footer>
+  </div> <!--end of wrapper-->
+
+<div class="bottomnav wrapper-header"> 
+  <ul class="row">
+    <li class="eight columns offset-by-four">
+      <a href="https://www.facebook.com/adamsmorganporchfest/"><img src="../images/facebook.png"/></a>
+      <a href="https://twitter.com/search?q=porchfest&src=typd"><img src="../images/twitter.png"/></a>
+      <a href="https://www.instagram.com/explore/tags/porchfest/"><img src="../images/instagram.png"/></a>
+      <h2>#porchfest</h2>
+    </li>
+   </ul>
+ </div> <!--end of bottomnav-->

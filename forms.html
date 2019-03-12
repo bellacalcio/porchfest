@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html >
+<head>
+  <meta charset="UTF-8">
+  <title>PorchFest 2017</title>
+
+<link rel="stylesheet" href="../css/style.css">
+<link rel='stylesheet prefetch' href="../css/skeleton.css">
+<link rel="stylesheet" href="../css/sweetalert.css">
+<link rel="stylesheet" href="../css/responsive-nav.css">
+
+<script src="../js/index.js"></script>
+<script src="../js/jquery-3.1.1.min.js"></script>
+<script src="../js/sweetalert-master/dist/sweetalert-dev.js"></script>
+<script src="../js/responsive-nav/responsive-nav.js"></script>
+<script src="../js/sweetalert-master/dist/sweetalert.min.js"></script>
+
+
+<!--http://www.austrianstartups.com/-->
+
+</head>
+
+<body>
+
+<div class="nav wrapper-header">
+    <nav class="nav-collapse"> 
+      <ul class="row white">
+
+        <li class="two columns offset-by-one">
+          <a href="../index.html#history">
+            History
+          </a>
+        </li>
+        <li class="two columns">
+          <a href="../index.html#lineup ">
+            Lineup
+          </a>
+        </li>
+        <li class="two columns">
+          <a href="forms.html">
+            <strong><div class="there">Get Involved</div></strong>
+          </a>
+        </li>
+        <li class="two columns">
+          <a href="../index.html#tickets">
+            Tickets
+          </a>
+        </li>
+        <li class="two columns">
+          <a href="transportation.html">
+            Getting there
+          </a>
+        </li>
+      </ul>
+    </nav>
+  </div> <!--end of wrapper-->
+
+<div class="wrapper-header">
+  <img src="../images/3.jpg"/>
+</div> <!--end row-->
+
+<div class="container">
+  <div class="row">
+    <div class="twelve columns">
+      <h3 class="padded-multiline" id="sponsor">
+        <span>Get Involved</span>
+      </h3>
+    </div> <!--end of columns-->
+  </div> <!--end row-->
+</div><!--end of container-->
+
+<div class="container register">
+  <div class="row jobs">
+    <div class="eight columns offset-by-two center">
+      <p>PorchFest is so successful every year because of its generous volunteers and sponsors.There are a number of ways you can participate in PorchFest!</p>
+    </div> <!--end of columns-->
+  </div> <!--end of row-->
+  <div class="row">
+      <ul class="four columns"> 
+        <li>
+          <img src="../images/register1.png"/>
+        </li>
+        <li><h4>Band or Musician</h4>Grab your guitar and showcase your musical talents for a few hours!
+        </li>
+      </ul>
+      <ul class="four columns"> 
+        <li>
+          <img src="../images/register2.png"/>
+        </li>
+        <li><h4>Porch Sponsor</h4>Give up your porch for the day! Must be a D.C. resident or homeowner. 
+        </li>
+      </ul>
+      <ul class="four columns"> 
+        <li>
+        <img src="../images/register3.png"/> 
+        </li>
+        <li><h4>Volunteer</h4> Run an information booth, direct visitors and hand out flyers!
+        </li>
+      </ul>
+    </div> <!--end of row-->
+    <div class="row jobs">
+    </div> <!--end of row-->
+    </div> <!--end of columns-->
+  </div><!--end of container-->
+
+<div class="container form">
+  <form id="register">
+    <div class="row">
+      <div class="eight columns offset-by-two peach">
+        <p>How would you like to participate?</p>
+          <select name="participate" class="role">
+            <option value="Musician">Musician</option>
+            <option value="Porch sponsor">Porch sponsor</option>
+            <option value="Volunteer">Volunteer</option>
+          </select>
+         <p>Which location?</p>
+          <select name="participate" class="location">
+            <option value="Rhode Island Ave">Rhode Island Ave</option>
+            <option value="Adams Morgan">Adams Morgan</option>
+          </select>
+        <p>Contact Information</p>
+          <input type="text" name="firstname" placeholder="First name"/>
+          <input type="text" name="lastname" placeholder="Last name"/>
+          <input type="text" name="email" placeholder="Email"/>
+          <input type="text" name="tel" placeholder="Phone (xxx) xxx-xxxx"/>
+          <button class="button" onclick="return false">Submit</button>
+      </form>
+    </div> <!--end of columns-->
+  </div> <!--end of rows-->
+</div> <!--end of container-->
+
+<div class="wrapper-footer">
+  <footer>
+    <ul class="six columns">
+      <li>
+        <h1>PorchFest</h1>
+      </li>
+    </ul>
+    <ul class="two columns">
+      <li>
+        <h4>Contact</h4>
+        <li>(202) 568-4567</li>
+        <li>
+          <a href="mailto:porchfestdc@gmail.com" target="blank">porchfestdc@gmail.com</a>
+        </li>
+        <li>700 12th Suite 700 NW</li>
+      </ul>
+      <ul class="two columns">
+        <li>
+          <h4>Get involved</h4>
+        </li>
+        <li>
+          <a href="forms.html" target="_blank">Perform</a>
+        </li>
+        <li>
+          <a href="forms.html" target="_blank">Sponsor a Porch</a>
+        </li>
+        <li>
+          <a href="forms.html" target="_blank">Volunteer</a>
+        </li>
+      </ul>
+    </footer>
+  </div> <!--end of wrapper-->
+
+<div class="bottomnav wrapper-header"> 
+  <ul class="row">
+    <li class="eight columns offset-by-four">
+      <a href="https://www.facebook.com/adamsmorganporchfest/"><img src="../images/facebook.png"/></a>
+      <a href="https://twitter.com/search?q=porchfest&src=typd"><img src="../images/twitter.png"/></a>
+      <a href="https://www.instagram.com/explore/tags/porchfest/"><img src="../images/instagram.png"/></a>
+      <h2>#porchfest</h2>
+    </li>
+   </ul>
+ </div> <!--end of bottomnav-->
+
+
+<script>
+
+var nav = responsiveNav(".nav-collapse", {
+});
+
+$('button').click(function(){
+  
+  swal("Thank you for registering!", "You can expect an email within the next business day.");
+
+});
+
+</script>
+
+
+</body>
+</html>

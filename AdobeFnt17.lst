@@ -1,0 +1,549 @@
+%!Adobe-FontList 1.17
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:\.DS_Store
+FileLength:6148
+FileModTime:1480337252
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:JosefinSlab-Bold
+FamilyName:Josefin Slab
+StyleName:Bold
+MenuName:Josefin Slab
+StyleBits:0
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Josefin Slab Bold
+WritingScript:Roman
+OutlineFileName:\JosefinSlab-Bold.ttf
+DataFormat:sfntData
+FileLength:88308
+FileModTime:1289952000
+NameArray:0,Mac,18,Josefin Slab Bold
+NameArray:0,Mac,4,Josefin Slab Bold
+NameArray:0,Win,1,Josefin Slab
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:JosefinSlab-BoldItalic
+FamilyName:Josefin Slab
+StyleName:Bold Italic
+MenuName:Josefin Slab
+StyleBits:1
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Josefin Slab Bold Italic
+WritingScript:Roman
+OutlineFileName:\JosefinSlab-BoldItalic.ttf
+DataFormat:sfntData
+FileLength:42848
+FileModTime:1289952000
+NameArray:0,Mac,4,Josefin Slab Bold Italic
+NameArray:0,Win,1,Josefin Slab
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:JosefinSlab-Italic
+FamilyName:Josefin Slab
+StyleName:Italic
+MenuName:Josefin Slab
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Josefin Slab Italic
+WritingScript:Roman
+OutlineFileName:\JosefinSlab-Italic.ttf
+DataFormat:sfntData
+FileLength:115492
+FileModTime:1289952000
+NameArray:0,Mac,18,Josefin Slab Italic
+NameArray:0,Mac,4,Josefin Slab Italic
+NameArray:0,Win,1,Josefin Slab
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:JosefinSlab-Light
+FamilyName:Josefin Slab
+StyleName:Light
+MenuName:Josefin Slab
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Josefin Slab Light
+WritingScript:Roman
+OutlineFileName:\JosefinSlab-Light.ttf
+DataFormat:sfntData
+FileLength:113844
+FileModTime:1289952000
+NameArray:0,Mac,4,Josefin Slab Light
+NameArray:0,Win,1,Josefin Slab
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:JosefinSlab-LightItalic
+FamilyName:Josefin Slab
+StyleName:Light Italic
+MenuName:Josefin Slab
+StyleBits:1
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Josefin Slab Light Italic
+WritingScript:Roman
+OutlineFileName:\JosefinSlab-LightItalic.ttf
+DataFormat:sfntData
+FileLength:160144
+FileModTime:1289952000
+NameArray:0,Mac,4,Josefin Slab Light Italic
+NameArray:0,Win,1,Josefin Slab
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:JosefinSlab
+FamilyName:Josefin Slab
+StyleName:Regular
+MenuName:Josefin Slab
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Josefin Slab
+WritingScript:Roman
+OutlineFileName:\JosefinSlab-Regular.ttf
+DataFormat:sfntData
+FileLength:110740
+FileModTime:1289952000
+NameArray:0,Mac,18,Josefin Slab
+NameArray:0,Mac,4,Josefin Slab
+NameArray:0,Win,1,Josefin Slab
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:JosefinSlab-SemiBold
+FamilyName:Josefin Slab
+StyleName:SemiBold
+MenuName:Josefin Slab
+StyleBits:0
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Josefin Slab SemiBold
+WritingScript:Roman
+OutlineFileName:\JosefinSlab-SemiBold.ttf
+DataFormat:sfntData
+FileLength:101328
+FileModTime:1289952000
+NameArray:0,Mac,4,Josefin Slab SemiBold
+NameArray:0,Win,1,Josefin Slab
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:JosefinSlab-SemiBoldItalic
+FamilyName:Josefin Slab
+StyleName:SemiBold Italic
+MenuName:Josefin Slab
+StyleBits:1
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Josefin Slab SemiBold Italic
+WritingScript:Roman
+OutlineFileName:\JosefinSlab-SemiBoldItalic.ttf
+DataFormat:sfntData
+FileLength:143220
+FileModTime:1289952000
+NameArray:0,Mac,4,Josefin Slab SemiBold Italic
+NameArray:0,Win,1,Josefin Slab
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:JosefinSlab-Thin
+FamilyName:Josefin Slab
+StyleName:Thin
+MenuName:Josefin Slab
+StyleBits:0
+WeightClass:250
+WidthClass:5
+AngleClass:0
+FullName:Josefin Slab Thin
+WritingScript:Roman
+OutlineFileName:\JosefinSlab-Thin.ttf
+DataFormat:sfntData
+FileLength:200012
+FileModTime:1289952000
+NameArray:0,Mac,4,Josefin Slab Thin
+NameArray:0,Win,1,Josefin Slab
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:JosefinSlab-ThinItalic
+FamilyName:Josefin Slab
+StyleName:Thin Italic
+MenuName:Josefin Slab
+StyleBits:1
+WeightClass:250
+WidthClass:5
+AngleClass:0
+FullName:Josefin Slab Thin Italic
+WritingScript:Roman
+OutlineFileName:\JosefinSlab-ThinItalic.ttf
+DataFormat:sfntData
+FileLength:197404
+FileModTime:1289952000
+NameArray:0,Mac,4,Josefin Slab Thin Italic
+NameArray:0,Win,1,Josefin Slab
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:218640
+FileModTime:1448877032
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Slabo13px-Regular
+FamilyName:Slabo 13px
+StyleName:Regular
+MenuName:Slabo 13px
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Slabo 13px
+WritingScript:Roman
+OutlineFileName:\Slabo13px-Regular.ttf
+DataFormat:sfntData
+FileLength:55796
+FileModTime:1401408000
+NameArray:0,Mac,4,Slabo 13px
+NameArray:0,Win,1,Slabo 13px
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:\Source_Sans_Pro\OFL.txt
+FileLength:4619
+FileModTime:1343696400
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SourceSansPro-Black
+FamilyName:Source Sans Pro
+StyleName:Black
+MenuName:Source Sans Pro Black
+StyleBits:0
+WeightClass:900
+WidthClass:5
+AngleClass:0
+FullName:Source Sans Pro Black
+WritingScript:Roman
+OutlineFileName:\Source_Sans_Pro\SourceSansPro-Black.ttf
+DataFormat:sfntData
+FileLength:148368
+FileModTime:1343696400
+DesignSize:100
+NameArray:0,Mac,4,Source Sans Pro Black
+NameArray:0,Win,1,Source Sans Pro Black
+NameArray:0,Win,16,Source Sans Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SourceSansPro-BlackIt
+FamilyName:Source Sans Pro
+StyleName:Black Italic
+MenuName:Source Sans Pro Black
+StyleBits:1
+WeightClass:900
+WidthClass:5
+AngleClass:1
+FullName:Source Sans Pro Black Italic
+WritingScript:Roman
+OutlineFileName:\Source_Sans_Pro\SourceSansPro-BlackItalic.ttf
+DataFormat:sfntData
+FileLength:116360
+FileModTime:1343696400
+DesignSize:100
+NameArray:0,Mac,4,Source Sans Pro Black Italic
+NameArray:0,Win,1,Source Sans Pro Black
+NameArray:0,Win,16,Source Sans Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SourceSansPro-Bold
+FamilyName:Source Sans Pro
+StyleName:Bold
+MenuName:Source Sans Pro
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Source Sans Pro Bold
+WritingScript:Roman
+OutlineFileName:\Source_Sans_Pro\SourceSansPro-Bold.ttf
+DataFormat:sfntData
+FileLength:148932
+FileModTime:1343696400
+DesignSize:100
+NameArray:0,Mac,4,Source Sans Pro Bold
+NameArray:0,Win,1,Source Sans Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SourceSansPro-BoldIt
+FamilyName:Source Sans Pro
+StyleName:Bold Italic
+MenuName:Source Sans Pro
+StyleBits:3
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Source Sans Pro Bold Italic
+WritingScript:Roman
+OutlineFileName:\Source_Sans_Pro\SourceSansPro-BoldItalic.ttf
+DataFormat:sfntData
+FileLength:116192
+FileModTime:1343696400
+DesignSize:100
+NameArray:0,Mac,4,Source Sans Pro Bold Italic
+NameArray:0,Win,1,Source Sans Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SourceSansPro-ExtraLight
+FamilyName:Source Sans Pro
+StyleName:ExtraLight
+MenuName:Source Sans Pro ExtraLight
+StyleBits:0
+WeightClass:200
+WidthClass:5
+AngleClass:0
+FullName:Source Sans Pro ExtraLight
+WritingScript:Roman
+OutlineFileName:\Source_Sans_Pro\SourceSansPro-ExtraLight.ttf
+DataFormat:sfntData
+FileLength:150528
+FileModTime:1343696400
+DesignSize:100
+NameArray:0,Mac,4,Source Sans Pro ExtraLight
+NameArray:0,Win,1,Source Sans Pro ExtraLight
+NameArray:0,Win,16,Source Sans Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SourceSansPro-ExtraLightIt
+FamilyName:Source Sans Pro
+StyleName:ExtraLight Italic
+MenuName:Source Sans Pro ExtraLight
+StyleBits:1
+WeightClass:200
+WidthClass:5
+AngleClass:1
+FullName:Source Sans Pro ExtraLight Italic
+WritingScript:Roman
+OutlineFileName:\Source_Sans_Pro\SourceSansPro-ExtraLightItalic.ttf
+DataFormat:sfntData
+FileLength:117140
+FileModTime:1343696400
+DesignSize:100
+NameArray:0,Mac,4,Source Sans Pro ExtraLight Italic
+NameArray:0,Win,1,Source Sans Pro ExtraLight
+NameArray:0,Win,16,Source Sans Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SourceSansPro-It
+FamilyName:Source Sans Pro
+StyleName:Italic
+MenuName:Source Sans Pro
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Source Sans Pro Italic
+WritingScript:Roman
+OutlineFileName:\Source_Sans_Pro\SourceSansPro-Italic.ttf
+DataFormat:sfntData
+FileLength:117328
+FileModTime:1343696400
+DesignSize:100
+NameArray:0,Mac,4,Source Sans Pro Italic
+NameArray:0,Win,1,Source Sans Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SourceSansPro-Light
+FamilyName:Source Sans Pro
+StyleName:Light
+MenuName:Source Sans Pro Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Source Sans Pro Light
+WritingScript:Roman
+OutlineFileName:\Source_Sans_Pro\SourceSansPro-Light.ttf
+DataFormat:sfntData
+FileLength:150244
+FileModTime:1343696400
+DesignSize:100
+NameArray:0,Mac,4,Source Sans Pro Light
+NameArray:0,Win,1,Source Sans Pro Light
+NameArray:0,Win,16,Source Sans Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SourceSansPro-LightIt
+FamilyName:Source Sans Pro
+StyleName:Light Italic
+MenuName:Source Sans Pro Light
+StyleBits:1
+WeightClass:300
+WidthClass:5
+AngleClass:1
+FullName:Source Sans Pro Light Italic
+WritingScript:Roman
+OutlineFileName:\Source_Sans_Pro\SourceSansPro-LightItalic.ttf
+DataFormat:sfntData
+FileLength:116960
+FileModTime:1343696400
+DesignSize:100
+NameArray:0,Mac,4,Source Sans Pro Light Italic
+NameArray:0,Win,1,Source Sans Pro Light
+NameArray:0,Win,16,Source Sans Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SourceSansPro-Regular
+FamilyName:Source Sans Pro
+StyleName:Regular
+MenuName:Source Sans Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Source Sans Pro
+WritingScript:Roman
+OutlineFileName:\Source_Sans_Pro\SourceSansPro-Regular.ttf
+DataFormat:sfntData
+FileLength:149972
+FileModTime:1343696400
+DesignSize:100
+NameArray:0,Mac,4,Source Sans Pro
+NameArray:0,Win,1,Source Sans Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SourceSansPro-Semibold
+FamilyName:Source Sans Pro
+StyleName:Semibold
+MenuName:Source Sans Pro Semibold
+StyleBits:0
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Source Sans Pro Semibold
+WritingScript:Roman
+OutlineFileName:\Source_Sans_Pro\SourceSansPro-Semibold.ttf
+DataFormat:sfntData
+FileLength:149636
+FileModTime:1343696400
+DesignSize:100
+NameArray:0,Mac,4,Source Sans Pro Semibold
+NameArray:0,Win,1,Source Sans Pro Semibold
+NameArray:0,Win,16,Source Sans Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SourceSansPro-SemiboldIt
+FamilyName:Source Sans Pro
+StyleName:Semibold Italic
+MenuName:Source Sans Pro Semibold
+StyleBits:1
+WeightClass:600
+WidthClass:5
+AngleClass:1
+FullName:Source Sans Pro Semibold Italic
+WritingScript:Roman
+OutlineFileName:\Source_Sans_Pro\SourceSansPro-SemiboldItalic.ttf
+DataFormat:sfntData
+FileLength:116424
+FileModTime:1343696400
+DesignSize:100
+NameArray:0,Mac,4,Source Sans Pro Semibold Italic
+NameArray:0,Win,1,Source Sans Pro Semibold
+NameArray:0,Win,16,Source Sans Pro
+%EndFont
+
